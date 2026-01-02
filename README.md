@@ -60,3 +60,10 @@ Modern compilers like GCC (MinGW) or Clang do not natively support the classic `
 ## 📜 License
 
 This project is open source. Feel free to explore and modify!
+
+---
+## Author
+
+**Yeshwanth Goud**
+
+*Data Scientist | Full Stack & ML Enthusiast*
