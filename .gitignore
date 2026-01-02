@@ -1,0 +1,17 @@
+# Compiled Object files
+*.obj
+*.o
+
+# Executables
+*.exe
+*.com
+
+# Turbo C specific
+*.dsk
+*.prj
+*.bak
+
+# OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
